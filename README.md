@@ -1,4 +1,4 @@
-# Tweets Fc
+# Tweets FC
 
 ## Description
 
@@ -37,4 +37,4 @@ Link to your blog, twitter, etc!
 
 ## License
 
-Tweets Fc is MIT Licensed. See LICENSE for details.
+Tweets FC is MIT Licensed. See LICENSE for details.
